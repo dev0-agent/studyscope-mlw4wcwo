@@ -7,7 +7,7 @@ It is automatically updated by dev0 as tasks are completed.
 
 ## Phase 1
 
-- [ ] ⏳ **Define Data Types and State Management Store**
+- [x] ⏳ **Define Data Types and State Management Store**
   Create the TypeScript interfaces for `Subject` (id, name, color, topics) and `Topic` (id, title, status). Implement a global store (using Zustand or Context) that handles CRUD operations for subjects and topics. Include a middleware or `useEffect` to persist this state to `localStorage` automatically.
 
 - [ ] ⏳ **Create Application Layout and Navigation**
